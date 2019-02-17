@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bfc062a-dfa5-4484-8e80-3aa26773c55e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnist_show.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mnist_neural_network.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloPyQt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mnist_show.py" beforeDir="false" afterPath="$PROJECT_DIR$/mnist_show.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural network.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sigmoid function.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,20 +19,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MNIST dataset.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MNIST dataset.py">
+      <file leaf-file-name="mnist_neural_network.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mnist_neural_network.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            <state relative-caret-position="348">
+              <caret line="43" column="104" selection-start-line="43" selection-start-column="104" selection-end-line="43" selection-end-column="104" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mnist_show.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mnist_show.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mnist_show.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            <state relative-caret-position="180">
+              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mnist.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dataset/mnist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1577" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="neural_network.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/neural_network.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -50,6 +80,9 @@
         <option value="$PROJECT_DIR$/mnist.py" />
         <option value="$PROJECT_DIR$/MNIST dataset.py" />
         <option value="$PROJECT_DIR$/mnist_show.py" />
+        <option value="$PROJECT_DIR$/functions.py" />
+        <option value="$PROJECT_DIR$/neural_network.py" />
+        <option value="$PROJECT_DIR$/mnist_neural_network.py" />
       </list>
     </option>
   </component>
@@ -76,75 +109,8 @@
             </path>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="/" type="cbb8eebc:String" user="/" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="/" type="cbb8eebc:String" user="/" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="/" type="cbb8eebc:String" user="/" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="yongwan89" type="cbb8eebc:String" user="yongwan89" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="/" type="cbb8eebc:String" user="/" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="yongwan89" type="cbb8eebc:String" user="yongwan89" />
-              <item name="Library" type="cbb8eebc:String" user="Library" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="/" type="cbb8eebc:String" user="/" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="yongwan89" type="cbb8eebc:String" user="yongwan89" />
-              <item name="Library" type="cbb8eebc:String" user="Library" />
-              <item name="Caches" type="cbb8eebc:String" user="Caches" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="/" type="cbb8eebc:String" user="/" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="yongwan89" type="cbb8eebc:String" user="yongwan89" />
-              <item name="Library" type="cbb8eebc:String" user="Library" />
-              <item name="Caches" type="cbb8eebc:String" user="Caches" />
-              <item name="PyCharmCE2018.1" type="cbb8eebc:String" user="PyCharmCE2018.1" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="/" type="cbb8eebc:String" user="/" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="yongwan89" type="cbb8eebc:String" user="yongwan89" />
-              <item name="Library" type="cbb8eebc:String" user="Library" />
-              <item name="Caches" type="cbb8eebc:String" user="Caches" />
-              <item name="PyCharmCE2018.1" type="cbb8eebc:String" user="PyCharmCE2018.1" />
-              <item name="python_stubs" type="cbb8eebc:String" user="python_stubs" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="External Dependencies" type="cbb8eebc:String" user="External Dependencies" />
-              <item name="/" type="cbb8eebc:String" user="/" />
-              <item name="Users" type="cbb8eebc:String" user="Users" />
-              <item name="yongwan89" type="cbb8eebc:String" user="yongwan89" />
-              <item name="Library" type="cbb8eebc:String" user="Library" />
-              <item name="Caches" type="cbb8eebc:String" user="Caches" />
-              <item name="PyCharmCE2018.1" type="cbb8eebc:String" user="PyCharmCE2018.1" />
-              <item name="python_stubs" type="cbb8eebc:String" user="python_stubs" />
-              <item name="496765788" type="cbb8eebc:String" user="496765788" />
+              <item name="Python" type="cbb8eebc:String" user="Python" />
+              <item name="dataset" type="cbb8eebc:String" user="dataset" />
             </path>
           </expand>
           <select />
@@ -178,25 +144,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.mnist_show">
-    <configuration name="HelloPyQt" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/../test.py/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloPyQt.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.mnist_neural_network">
     <configuration name="MNIST dataset" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -210,6 +158,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MNIST dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="mnist_neural_network" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mnist_neural_network.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,7 +199,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="neural network" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="neural_network" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -245,7 +211,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/neural network.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/neural_network.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,18 +237,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.MNIST dataset" />
-      <item itemvalue="Python.HelloPyQt" />
-      <item itemvalue="Python.neural network" />
       <item itemvalue="Python.sigmoid function" />
       <item itemvalue="Python.mnist_show" />
+      <item itemvalue="Python.mnist_neural_network" />
+      <item itemvalue="Python.neural_network" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.mnist_show" />
+        <item itemvalue="Python.mnist_neural_network" />
+        <item itemvalue="Python.neural_network" />
         <item itemvalue="Python.MNIST dataset" />
+        <item itemvalue="Python.mnist_show" />
         <item itemvalue="Python.sigmoid function" />
-        <item itemvalue="Python.neural network" />
-        <item itemvalue="Python.HelloPyQt" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +267,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="23" width="1400" height="790" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -326,16 +291,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sigmoid function.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/neural network.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HelloPyQt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -353,6 +308,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sigmoid function.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sigmoid_function.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neural network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MNIST dataset.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -360,10 +328,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neural_network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mnist_show.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        <state relative-caret-position="180">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1577" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mnist_neural_network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="43" column="104" selection-start-line="43" selection-start-column="104" selection-end-line="43" selection-end-column="104" />
         </state>
       </provider>
     </entry>
