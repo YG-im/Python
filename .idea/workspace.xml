@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bfc062a-dfa5-4484-8e80-3aa26773c55e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/train_neural_iteration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_neuralnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample1.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,7 +17,7 @@
       <file leaf-file-name="mnist_neural_network.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mnist_neural_network.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
+            <state>
               <caret line="43" column="104" selection-start-line="43" selection-start-column="104" selection-end-line="43" selection-end-column="104" />
             </state>
           </provider>
@@ -28,71 +26,26 @@
       <file leaf-file-name="train_neuralnet.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/train_neuralnet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="62" column="10" lean-forward="true" selection-start-line="53" selection-end-line="62" selection-end-column="10" />
+            <state relative-caret-position="930">
+              <caret line="62" column="10" selection-start-line="53" selection-end-line="62" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="train_neural_iteration.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="train_neural_iteration.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/train_neural_iteration.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="51" column="16" lean-forward="true" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+            <state relative-caret-position="114">
+              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="two_layer_net.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/two_layer_net.py">
+      <file leaf-file-name="lab-02-1-linear_regression.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-02-1-linear_regression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1110">
-              <caret line="74" column="26" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gradient.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradient.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#68#86#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mnist_show.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mnist_show.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mnist.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dataset/mnist.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1277" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="neural_network.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/neural_network.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="48" selection-start-line="48" selection-end-line="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="functions.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/functions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="-60">
+              <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -103,8 +56,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -125,12 +84,14 @@
         <option value="$PROJECT_DIR$/program/two_layer_net.py" />
         <option value="$PROJECT_DIR$/functions.py" />
         <option value="$PROJECT_DIR$/train_neural_iteration.py" />
+        <option value="$PROJECT_DIR$/sample1.ipynb" />
+        <option value="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-01-basics.ipynb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1755" />
-    <option name="y" value="180" />
+    <option name="x" value="-1894" />
+    <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="790" />
   </component>
@@ -163,7 +124,7 @@
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="Python" type="cbb8eebc:String" user="Python" />
-              <item name="program" type="cbb8eebc:String" user="program" />
+              <item name="DeepLearningZeroToAll-master" type="cbb8eebc:String" user="DeepLearningZeroToAll-master" />
             </path>
           </expand>
           <select />
@@ -186,7 +147,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.train_neural_iteration">
+  <component name="RunManager" selected="Python.lab-02-1-linear_regression">
+    <configuration name="Python" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+    </configuration>
     <configuration name="gradient" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -205,7 +182,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="sample" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lab-02-1-linear_regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,11 +190,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearningZeroToAll-master" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sample.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-02-1-linear_regression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -278,19 +255,20 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.sample" />
+      <item itemvalue="Jupyter Notebook.Python" />
       <item itemvalue="Python.gradient" />
       <item itemvalue="Python.train_neuralnet" />
       <item itemvalue="Python.two_layer_net" />
       <item itemvalue="Python.train_neural_iteration" />
+      <item itemvalue="Python.lab-02-1-linear_regression" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lab-02-1-linear_regression" />
         <item itemvalue="Python.train_neural_iteration" />
         <item itemvalue="Python.train_neuralnet" />
         <item itemvalue="Python.two_layer_net" />
         <item itemvalue="Python.gradient" />
-        <item itemvalue="Python.sample" />
       </list>
     </recent_temporary>
   </component>
@@ -308,12 +286,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1755" y="180" width="1400" height="790" extended-state="0" />
+    <frame x="-1894" y="23" width="1400" height="790" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32960895" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -326,7 +306,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -344,6 +323,107 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/two_layer_net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="74" column="26" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#68#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mnist_show.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/mnist.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_neural_iteration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mnist_neural_network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="104" selection-start-line="43" selection-start-column="104" selection-end-line="43" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_neuralnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="10" lean-forward="true" selection-start-line="53" selection-end-line="62" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/two_layer_net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="74" column="26" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#68#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mnist_show.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/mnist.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neural_network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_neural_iteration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="16" lean-forward="true" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mnist_neural_network.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
@@ -451,35 +531,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dataset/mnist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1277" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/program/gradient.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding>
-            <element signature="e#68#86#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/program/gradient.py" />
     <entry file="file://$PROJECT_DIR$/mnist_neural_network.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
+        <state>
           <caret line="43" column="104" selection-start-line="43" selection-start-column="104" selection-end-line="43" selection-end-column="104" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/program/two_layer_net.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/program/two_layer_net.py" />
     <entry file="file://$PROJECT_DIR$/gradient.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -489,31 +549,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/two_layer_net.py">
+    <entry file="file://$PROJECT_DIR$/train_neuralnet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="74" column="26" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="26" />
+        <state relative-caret-position="930">
+          <caret line="62" column="10" selection-start-line="53" selection-end-line="62" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/functions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/train_neuralnet.py">
+    <entry file="file://$PROJECT_DIR$/dataset/mnist.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/two_layer_net.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="62" column="10" lean-forward="true" selection-start-line="53" selection-end-line="62" selection-end-column="10" />
+        <state relative-caret-position="639">
+          <caret line="74" column="26" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/train_neural_iteration.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="51" column="16" lean-forward="true" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+        <state relative-caret-position="114">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-01-basics.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-02-1-linear_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
