@@ -28,12 +28,19 @@ hypothesis = tf.sigmoid(tf.matmul(X, W) + b)
 # cost/loss function
 cost = -tf.reduce_mean(Y * tf.log(hypothesis) + (1 - Y) *
                        tf.log(1 - hypothesis))
+"""
+cost= if y=1 : -tf.log(hypothesis) elif y=0 : -tf.log(1-hypothesis)
+이러면 계속 if문 달고 다녀야함. 그래서 
+cost=-y tf.log(hypothesis)-(1-y)tf.log(1-hypothesis)
+이렇게 해야지 if 문 없이 코스트 함수를 만들수 있다.
+"""
+
 
 train = tf.train.GradientDescentOptimizer(learning_rate=0.01).minimize(cost)
 
 # Accuracy computation
 # True if hypothesis>0.5 else False
-predicted = tf.cast(hypothesis > 0.5, dtype=tf.float32)
+predicted = tf.cast(hypothesis > 0.5, dtype=tf.float32)  #cast : hypothesis > 0.5이면 1을 아니면 0을 던져준다.
 accuracy = tf.reduce_mean(tf.cast(tf.equal(predicted, Y), dtype=tf.float32))
 
 # Launch graph

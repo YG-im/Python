@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 X = [1, 2, 3]
 Y = [1, 2, 3]
 
-W = tf.placeholder(tf.float32)
+W = tf.placeholder(tf.float32)  #W를 값을 바꿔가면서 입력할 수 있도록 placeholder로 함.
 
 # Our hypothesis for linear model X * W
 hypothesis = X * W

@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bfc062a-dfa5-4484-8e80-3aa26773c55e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/sample1.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-03-1-minimizing_cost_show_graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-03-1-minimizing_cost_show_graph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-03-2-minimizing_cost_gradient_update.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-03-2-minimizing_cost_gradient_update.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-04-1-multi_variable_linear_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-04-1-multi_variable_linear_regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-04-2-multi_variable_matmul_linear_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-04-2-multi_variable_matmul_linear_regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-04-3-file_input_linear_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-04-3-file_input_linear_regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-04-4-tf_reader_linear_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-04-4-tf_reader_linear_regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-05-1-logistic_regression.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-05-2-logistic_regression_diabetes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-06-1-softmax_classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-06-1-softmax_classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-06-2-softmax_zoo_classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-06-2-softmax_zoo_classifier.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,38 +23,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="mnist_neural_network.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mnist_neural_network.py">
-          <provider selected="true" editor-type-id="text-editor">
+      <file leaf-file-name="lab-01-basics.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-01-basics.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <caret line="43" column="104" selection-start-line="43" selection-start-column="104" selection-end-line="43" selection-end-column="104" />
+              <selected id="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="train_neuralnet.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/train_neuralnet.py">
+      <file leaf-file-name="lab-06-1-softmax_classifier.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-06-1-softmax_classifier.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="930">
-              <caret line="62" column="10" selection-start-line="53" selection-end-line="62" selection-end-column="10" />
+            <state relative-caret-position="532">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="train_neural_iteration.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/train_neural_iteration.py">
+      <file leaf-file-name="lab-06-2-softmax_zoo_classifier.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-06-2-softmax_zoo_classifier.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+            <state relative-caret-position="219">
+              <caret line="91" column="58" selection-start-line="91" selection-start-column="58" selection-end-line="91" selection-end-column="58" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lab-02-1-linear_regression.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-02-1-linear_regression.py">
+      <file leaf-file-name="lab-05-1-logistic_regression_sigmoid.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-05-1-logistic_regression_sigmoid.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-60">
-              <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="89">
+              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lab-05-1-logistic_regression_tanh.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-05-1-logistic_regression_tanh.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="41" column="68" selection-start-line="41" selection-start-column="68" selection-end-line="41" selection-end-column="68" />
+              <folding>
+                <element signature="e#39#62#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,12 +107,25 @@
         <option value="$PROJECT_DIR$/train_neural_iteration.py" />
         <option value="$PROJECT_DIR$/sample1.ipynb" />
         <option value="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-01-basics.ipynb" />
+        <option value="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-03-1-minimizing_cost_show_graph.py" />
+        <option value="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-03-2-minimizing_cost_gradient_update.py" />
+        <option value="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-04-1-multi_variable_linear_regression.py" />
+        <option value="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-04-2-multi_variable_matmul_linear_regression.py" />
+        <option value="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-04-3-file_input_linear_regression.py" />
+        <option value="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-04-4-tf_reader_linear_regression.py" />
+        <option value="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-05-1-logistic_regression.py" />
+        <option value="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-05-2-logistic_regression_diabetes.py" />
+        <option value="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-05-2-logistic_regression_diabetes_tanh.py" />
+        <option value="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-06-1-softmax_classifier.py" />
+        <option value="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-05-1-logistic_regression_tanh.py" />
+        <option value="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-05-1-logistic_regression_sigmoid.py" />
+        <option value="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-06-2-softmax_zoo_classifier.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1894" />
-    <option name="y" value="23" />
+    <option name="x" value="125" />
+    <option name="y" value="72" />
     <option name="width" value="1400" />
     <option name="height" value="790" />
   </component>
@@ -147,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lab-02-1-linear_regression">
+  <component name="RunManager" selected="Python.lab-06-2-softmax_zoo_classifier">
     <configuration name="Python" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,25 +198,7 @@
       <option name="ipnbHost" value="127.0.0.1" />
       <option name="ipnbPort" value="8888" />
     </configuration>
-    <configuration name="gradient" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/program" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/program/gradient.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="lab-02-1-linear_regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lab-05-1-logistic_regression_sigmoid" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,13 +210,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-02-1-linear_regression.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-05-1-logistic_regression_sigmoid.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="train_neural_iteration" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lab-05-1-logistic_regression_tanh" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,17 +224,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearningZeroToAll-master" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_neural_iteration.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-05-1-logistic_regression_tanh.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="train_neuralnet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lab-05-2-logistic_regression_diabetes_tanh" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,17 +242,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearningZeroToAll-master" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_neuralnet.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-05-2-logistic_regression_diabetes_tanh.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="two_layer_net" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lab-06-1-softmax_classifier" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -244,11 +260,29 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/program" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearningZeroToAll-master" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/program/two_layer_net.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-06-1-softmax_classifier.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="lab-06-2-softmax_zoo_classifier" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearningZeroToAll-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-06-2-softmax_zoo_classifier.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,19 +290,19 @@
     </configuration>
     <list>
       <item itemvalue="Jupyter Notebook.Python" />
-      <item itemvalue="Python.gradient" />
-      <item itemvalue="Python.train_neuralnet" />
-      <item itemvalue="Python.two_layer_net" />
-      <item itemvalue="Python.train_neural_iteration" />
-      <item itemvalue="Python.lab-02-1-linear_regression" />
+      <item itemvalue="Python.lab-05-1-logistic_regression_tanh" />
+      <item itemvalue="Python.lab-05-1-logistic_regression_sigmoid" />
+      <item itemvalue="Python.lab-05-2-logistic_regression_diabetes_tanh" />
+      <item itemvalue="Python.lab-06-1-softmax_classifier" />
+      <item itemvalue="Python.lab-06-2-softmax_zoo_classifier" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lab-02-1-linear_regression" />
-        <item itemvalue="Python.train_neural_iteration" />
-        <item itemvalue="Python.train_neuralnet" />
-        <item itemvalue="Python.two_layer_net" />
-        <item itemvalue="Python.gradient" />
+        <item itemvalue="Python.lab-06-2-softmax_zoo_classifier" />
+        <item itemvalue="Python.lab-05-1-logistic_regression_tanh" />
+        <item itemvalue="Python.lab-06-1-softmax_classifier" />
+        <item itemvalue="Python.lab-05-2-logistic_regression_diabetes_tanh" />
+        <item itemvalue="Python.lab-05-1-logistic_regression_sigmoid" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +320,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1894" y="23" width="1400" height="790" extended-state="0" />
+    <frame x="125" y="72" width="1400" height="790" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -323,114 +357,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/two_layer_net.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="74" column="26" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradient.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#68#86#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mnist_show.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dataset/mnist.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train_neural_iteration.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mnist_neural_network.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="104" selection-start-line="43" selection-start-column="104" selection-end-line="43" selection-end-column="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train_neuralnet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="10" lean-forward="true" selection-start-line="53" selection-end-line="62" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/two_layer_net.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="74" column="26" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradient.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#68#86#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mnist_show.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dataset/mnist.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/neural_network.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train_neural_iteration.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="51" column="16" lean-forward="true" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mnist_neural_network.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="104" selection-start-line="43" selection-start-column="104" selection-end-line="43" selection-end-column="104" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mnist_show.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -532,13 +458,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/program/gradient.py" />
-    <entry file="file://$PROJECT_DIR$/mnist_neural_network.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="43" column="104" selection-start-line="43" selection-start-column="104" selection-end-line="43" selection-end-column="104" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/program/two_layer_net.py" />
     <entry file="file://$PROJECT_DIR$/gradient.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -546,13 +465,6 @@
           <folding>
             <element signature="e#68#86#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/train_neuralnet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="10" selection-start-line="53" selection-end-line="62" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -583,10 +495,115 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-02-3-linear_regression_tensorflow.org.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train_neuralnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="62" column="10" selection-start-line="53" selection-end-line="62" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mnist_neural_network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/train_neural_iteration.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-02-1-linear_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-286">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-03-3-minimizing_cost_tf_optimizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" lean-forward="true" selection-start-line="16" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-03-X-minimizing_cost_tf_gradient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-377" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-03-2-minimizing_cost_gradient_update.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-04-1-multi_variable_linear_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="43" lean-forward="true" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-03-1-minimizing_cost_show_graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-04-3-file_input_linear_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="66" column="19" lean-forward="true" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
+          <folding>
+            <element signature="e#41#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-04-4-tf_reader_linear_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-04-2-multi_variable_matmul_linear_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-05-2-logistic_regression_diabetes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#39#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-05-1-logistic_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="33" column="52" lean-forward="true" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-05-2-logistic_regression_diabetes_tanh.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="84" column="16" selection-start-line="84" selection-start-column="16" selection-end-line="84" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -597,10 +614,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-02-1-linear_regression.py">
+    <entry file="file://$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-06-1-softmax_classifier.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-60">
-          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="18" />
+        <state relative-caret-position="532">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-05-1-logistic_regression_tanh.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="41" column="68" selection-start-line="41" selection-start-column="68" selection-end-line="41" selection-end-column="68" />
+          <folding>
+            <element signature="e#39#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-05-1-logistic_regression_sigmoid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeepLearningZeroToAll-master/lab-06-2-softmax_zoo_classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="91" column="58" selection-start-line="91" selection-start-column="58" selection-end-line="91" selection-end-column="58" />
         </state>
       </provider>
     </entry>

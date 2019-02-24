@@ -1,11 +1,18 @@
 # Lab 4 Multi-variable linear regression
 import tensorflow as tf
 import numpy as np
+import matplotlib.pyplot as plt
 tf.set_random_seed(777)  # for reproducibility
 
 xy = np.loadtxt('data-01-test-score.csv', delimiter=',', dtype=np.float32)
-x_data = xy[:, 0:-1]
-y_data = xy[:, [-1]]
+"""데이터를 여기에 다 입력하며 너무 복잡해지니 외부에서 데이터를 읽어들어오는 것.
+np의 np.loadtxt : 'data-01-test-score.csv'의 파일(이 코드와 같은 디렉토리)에서 , 
+delimiter=',' 컴마로 쪼개서 불러온다.
+dtype=np.float32 데이터 타입은 이거다.
+"""
+
+x_data = xy[:, 0:-1] #행은 ':' 행은 전체, 열은 indexing 0부터 마지막에서 첫번째 이까지.
+y_data = xy[:, [-1]] #행은 ':' 행은 전체, 열은 마지막에서 첫번째것 열만 불러온
 
 # Make sure the shape and data are OK
 print(x_data, "\nx_data shape:", x_data.shape)
@@ -55,6 +62,24 @@ for step in range(2001):
     if step % 10 == 0:
         print(step, "Cost:", cost_val, "\nPrediction:\n", hy_val)
 
+"""
+# Variables for plotting cost function
+    x3_history = []
+    predict_history = []
+
+# Launch the graph in a session.
+    for x3 in np.arange(101):
+        predict_Y=sess.run(hypothesis,
+                 feed_dict={X: [[50, 90, x3]]})
+
+        x3_history.append(x3)
+        predict_history.append(predict_Y)
+
+# Show the cost function
+plt.plot(x3_history, predict_history)
+plt.show()
+"""
+
 # train output
 '''
 0 Cost: 21027.0 
@@ -88,8 +113,9 @@ Prediction:
 '''
 
 # Ask my score
+"""X 인풋을 넣어서 Y(final exam) 점수 예측해보기."""
 print("Your score will be ", sess.run(hypothesis, 
-                                      feed_dict={X: [[100, 70, 101]]}))
+                                      feed_dict={X: [[0, 0, 101]]}))
 
 print("Other scores will be ", sess.run(hypothesis,
                                         feed_dict={X: [[60, 70, 110], [90, 100, 80]]}))

@@ -9,9 +9,9 @@ y_data = [1, 2, 3]
 # Try to find values for W and b to compute y_data = W * x_data
 # We know that W should be 1
 # But let's use TensorFlow to figure it out
-W = tf.Variable(tf.random_normal([1]), name="weight")
+W = tf.Variable(tf.random_normal([1]), name="weight")  #W가 변수야.
 
-X = tf.placeholder(tf.float32)
+X = tf.placeholder(tf.float32)   #X랑 Y를 placeholder에다가 입력할거야
 Y = tf.placeholder(tf.float32)
 
 # Our hypothesis for linear model X * W
@@ -21,18 +21,26 @@ hypothesis = X * W
 cost = tf.reduce_mean(tf.square(hypothesis - Y))
 
 # Minimize: Gradient Descent using derivative: W -= learning_rate * derivative
-learning_rate = 0.1
-gradient = tf.reduce_mean((W * X - Y) * X)
+learning_rate = 0.1    #cost함수의 특정 위치의 기울기에 0.1만큼 W를 변화시켜서 또 대입해 보겠다.
+gradient = tf.reduce_mean((W * X - Y) * X)  #(1/m)\sum^{m}_{i=1} (W X -Y)X
 descent = W - learning_rate * gradient
-update = W.assign(descent)
+update = W.assign(descent) #W에다가 decent값을 assign한다.
+"""
+cost함수를 Minimize하는 방법에는 위에 방법도 있지만 
+매번 미분을 해서 reduce_mean을 취할 수 없으니 Gradient Descent Optimizer를 사용한다.
+ optimizer = tf.train.GradientDescentOptimizer(learning_rate=0.1)
+ train = optimizer.minimize(cost) 
+ """
+
+
 
 # Launch the graph in a session.
-with tf.Session() as sess:
+with tf.Session() as sess:   #그래프그릴라면 세션을 열어야해
     # Initializes global variables in the graph.
     sess.run(tf.global_variables_initializer())
 
     for step in range(21):
-        _, cost_val, W_val = sess.run(
+        _, cost_val, W_val = sess.run(  #_ 는 어떠한 변수에도 update를 할당하지 않겠다는거.
             [update, cost, W], feed_dict={X: x_data, Y: y_data}
         )
         print(step, cost_val, W_val)

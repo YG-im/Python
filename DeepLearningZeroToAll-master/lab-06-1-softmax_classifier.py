@@ -21,7 +21,7 @@ y_data = [[0, 0, 1],
 
 X = tf.placeholder("float", [None, 4])
 Y = tf.placeholder("float", [None, 3])
-nb_classes = 3
+nb_classes = 3  #Y의 열의 갯수, 몇개의 클래스로 나눌거
 
 W = tf.Variable(tf.random_normal([4, nb_classes]), name='weight')
 b = tf.Variable(tf.random_normal([nb_classes]), name='bias')
